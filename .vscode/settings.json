@@ -1,0 +1,6 @@
+{
+	"terminal.integrated.env.linux": {
+		"PATH": "/home/rahul/.platformio/penv/bin:/home/rahul/.platformio/penv:/home/rahul/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/rahul/ESP/xtensa-esp32-elf/bin::/home/rahul/ESP/xtensa-esp32-elf/bin:",
+		"PLATFORMIO_CALLER": "vscode"
+	}
+}
