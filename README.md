@@ -4,7 +4,7 @@ arduino-temp-measure
 0.0.2
 
 ## Summary
-Program utilizes a IR sensor to measure ambient & object temperature
+Program utilizes the MLX90614 IR sensor to measure ambient & object temperature
 
 ## To Do
 * Nothing
